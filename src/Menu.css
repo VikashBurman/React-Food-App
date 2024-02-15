@@ -1,0 +1,9 @@
+#itemlist {
+    position: absolute;
+    top: 74%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    padding: 18px;
+    background-color: aliceblue;
+    border-radius: 16px;
+}
